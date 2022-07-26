@@ -1,0 +1,15 @@
+{
+  "name": "bookfinder",
+  "version": "1.0.0",
+  "description": "Making book searcg engine",
+  "main": "server.js",
+  "scripts": {
+    "start": " node server.js"
+  },
+  "author": "Yogesh Kumar Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
